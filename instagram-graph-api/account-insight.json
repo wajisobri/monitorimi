@@ -1,0 +1,59 @@
+{
+  "data": [
+      {
+          "name": "impressions",
+          "period": "day",
+          "values": [
+              {
+                  "value": 734,
+                  "end_time": "2022-10-12T07:00:00+0000"
+              },
+              {
+                  "value": 225,
+                  "end_time": "2022-10-13T07:00:00+0000"
+              }
+          ],
+          "title": "Impresi",
+          "description": "Total frekuensi objek media Akun Bisnis dilihat",
+          "id": "17841401361905342/insights/impressions/day"
+      },
+      {
+          "name": "reach",
+          "period": "day",
+          "values": [
+              {
+                  "value": 470,
+                  "end_time": "2022-10-12T07:00:00+0000"
+              },
+              {
+                  "value": 158,
+                  "end_time": "2022-10-13T07:00:00+0000"
+              }
+          ],
+          "title": "Jangkauan",
+          "description": "Total frekuensi objek media Akun Bisnis dilihat secara unik.",
+          "id": "17841401361905342/insights/reach/day"
+      },
+      {
+          "name": "profile_views",
+          "period": "day",
+          "values": [
+              {
+                  "value": 22,
+                  "end_time": "2022-10-12T07:00:00+0000"
+              },
+              {
+                  "value": 24,
+                  "end_time": "2022-10-13T07:00:00+0000"
+              }
+          ],
+          "title": "Tampilan Profil",
+          "description": "Total pengguna yang sudah melihat profil Akun Bisnis dalam kurun waktu tertentu",
+          "id": "17841401361905342/insights/profile_views/day"
+      }
+  ],
+  "paging": {
+      "previous": "https://graph.facebook.com/v15.0/17841401361905342/insights?access_token=EAALxYiWw8UUBAJ7p3H44g6ht9dNoslZBQpJt8HFLBXQrM5Kaqkik35WXHDh6EAKW6CL970radqcnkt0J67AFnjGT1aCAZAsx1agaHl0hPBZBceHnDZB1XdP5pWGb18RwpSbjc4qPhF1NtZCaycqvG4uZA0I1bjtaW5J6VSDPFsbhV2xRU9NBqmX6DmstffKDQZAfKZCHkSXa6AZDZD&metric=impressions%2Creach%2Cprofile_views&period=day&since=1665368928&until=1665541728",
+      "next": "https://graph.facebook.com/v15.0/17841401361905342/insights?access_token=EAALxYiWw8UUBAJ7p3H44g6ht9dNoslZBQpJt8HFLBXQrM5Kaqkik35WXHDh6EAKW6CL970radqcnkt0J67AFnjGT1aCAZAsx1agaHl0hPBZBceHnDZB1XdP5pWGb18RwpSbjc4qPhF1NtZCaycqvG4uZA0I1bjtaW5J6VSDPFsbhV2xRU9NBqmX6DmstffKDQZAfKZCHkSXa6AZDZD&metric=impressions%2Creach%2Cprofile_views&period=day&since=1665714530&until=1665887330"
+  }
+}

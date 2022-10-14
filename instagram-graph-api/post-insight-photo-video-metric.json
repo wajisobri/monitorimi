@@ -1,0 +1,64 @@
+{
+  "data": [
+      {
+          "name": "engagement",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 149
+              }
+          ],
+          "title": "Interaksi",
+          "description": "Total jumlah suka dan komentar di objek media",
+          "id": "17944521716106624/insights/engagement/lifetime"
+      },
+      {
+          "name": "impressions",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 1657
+              }
+          ],
+          "title": "Impresi",
+          "description": "Total jumlah berapa kali objek media sudah dilihat",
+          "id": "17944521716106624/insights/impressions/lifetime"
+      },
+      {
+          "name": "reach",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 1138
+              }
+          ],
+          "title": "Jangkauan",
+          "description": "Total jumlah akun unik yang sudah melihat objek media",
+          "id": "17944521716106624/insights/reach/lifetime"
+      },
+      {
+          "name": "saved",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 2
+              }
+          ],
+          "title": "Tersimpan",
+          "description": "Total jumlah akun unik  yang sudah menyimpan objek media",
+          "id": "17944521716106624/insights/saved/lifetime"
+      },
+      {
+          "name": "video_views",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 666
+              }
+          ],
+          "title": "Tayangan Video",
+          "description": "Total jumlah berapa kali video tersebut sudah dilihat",
+          "id": "17944521716106624/insights/video_views/lifetime"
+      }
+  ]
+}

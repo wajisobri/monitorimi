@@ -1,0 +1,64 @@
+{
+  "data": [
+      {
+          "name": "carousel_album_engagement",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 149
+              }
+          ],
+          "title": "Interaksi Album Karosel",
+          "description": "Total jumlah suka dan komentar di album karosel",
+          "id": "17944521716106624/insights/carousel_album_engagement/lifetime"
+      },
+      {
+          "name": "carousel_album_impressions",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 1657
+              }
+          ],
+          "title": "Impresi Album Karosel",
+          "description": "Total frekuensi album karosel dilihat",
+          "id": "17944521716106624/insights/carousel_album_impressions/lifetime"
+      },
+      {
+          "name": "carousel_album_reach",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 1138
+              }
+          ],
+          "title": "Jangkauan Album Karosel",
+          "description": "Total jumlah akun unik yang sudah melihat album karosel",
+          "id": "17944521716106624/insights/carousel_album_reach/lifetime"
+      },
+      {
+          "name": "saved",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 2
+              }
+          ],
+          "title": "Album Karosel yang Disimpan",
+          "description": "Total jumlah akun unik yang sudah menyimpan album karosel",
+          "id": "17944521716106624/insights/saved/lifetime"
+      },
+      {
+          "name": "video_views",
+          "period": "lifetime",
+          "values": [
+              {
+                  "value": 666
+              }
+          ],
+          "title": "Tayangan Video Album Karosel",
+          "description": "Total frekuensi album karosel dilihat",
+          "id": "17944521716106624/insights/video_views/lifetime"
+      }
+  ]
+}
